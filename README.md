@@ -1,4 +1,5 @@
-<p align="left"> Ola, seja bem vindo.👋! Meu nome é eduardo, sou um estudante de análise Desenvolvimento de Sistemas e esse é meu repositório publico😁</p>
+<h1 align="left"> Ola, seja bem vindo.👋!</h1>
+<p align = "left">Sou um desenvolvedor back end que esta se especializando em java, confira meus projetos!😄</p>
 
 ###
 
