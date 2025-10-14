@@ -14,15 +14,13 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor back-end, que atualmente esta se especializando em java e Springboot.☕<br>O back-end me fascina por ter um leque de criatividade sem limites, utilizando logicas e seguranças da area.</p>
+<p align="center">Sou um desenvolvedor back-end, que atualmente esta se especializando em java e Springboot.☕<br>O back-end me fascina por ter um leque de criatividade sem limites, utilizando logicas e seguranças da area.</p>
 
 ###
 
-![Contador de visitas](https://profile-counter.glitch.me/eduardovn2/count.svg)
-
-
-
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Eduardovn2.Eduardovn2&center_text=visitas"  />
+</div>
 
 
 ###
@@ -34,15 +32,15 @@
 
 ###
 
-<h3 align="left">Sobre mim.👇</h3>
+<h3 align="center">Sobre mim.👇</h3>
 
 ###
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h3 align="center">Linguagens e ferramentas:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -62,7 +60,7 @@
 
 ###
 
-<h3 align="left">Meus status:</h3>
+<h3 align="center">Meus status:</h3>
 
 ###
 
@@ -88,3 +86,6 @@
 </div>
 
 ###
+
+
+<h3 align="center">Visite alguns projetos abaixo.👇</h3>
